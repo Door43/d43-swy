@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[swy:home|Door43 (swy)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-swy|d43-swy repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-swy/archive/master.zip|d43-swy.zip]]
+
+**Recent Changes**
+{{changes>ns = swy}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/swy|Ethnologue data]]
+
